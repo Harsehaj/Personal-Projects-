@@ -29,9 +29,9 @@ def key_of_min_value(d):
     >>> key_of_min_value(letters)
     'c'
     """
-    # BEGIN Question 0
+  
     return min(d, key=lambda x: d[x] )
-    # END Question 0
+  
 
 def zip(*sequences):
     """Returns a list of lists, where the i-th list contains the i-th
