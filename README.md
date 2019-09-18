@@ -1,4 +1,4 @@
-## Supervised Machine Learnings to predict restaurant ratings 
+## Machine Learnings to predict restaurant ratings 
 
 In this project, I created a visualization of restaurant ratings using machine learning and the Yelp academic dataset. 
 
